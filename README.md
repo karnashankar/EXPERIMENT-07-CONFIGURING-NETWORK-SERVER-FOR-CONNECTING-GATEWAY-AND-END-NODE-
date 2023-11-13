@@ -44,10 +44,11 @@ AT Commands to set initially (Mandatory)
 To set APP Key
  ATZ // To take effective action on below settings (As like saving)
 
+##Output
 
+![image](https://github.com/karnashankar/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/121109150/2d654626-1bee-4cb6-b394-ea472bde39c2)
 
-## OUTPUT 
-![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/858435f2-2f59-435d-ad3f-7ecd377bd0da)
+![image](https://github.com/karnashankar/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/121109150/7446408c-1457-4121-8ac3-2140d9bedc8c)
 
 
 
